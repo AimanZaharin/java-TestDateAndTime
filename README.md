@@ -6,3 +6,4 @@
 
 - The said variable can be change to any word that you like.
 
+- The reason why we need to use the variablename.toString is to convert the whole " new java.util.Date " statement to string.
